@@ -1,3 +1,7 @@
+# Projet Blender disponible
+
+Le projet blender de l'animation est disponible dans le .zip suivant : stormtrooper-eval.blend.zip
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
